@@ -27,8 +27,6 @@ Este repositório apresenta artefatos de planejamento e concepção do MVP, incl
 - **backlog_screenshots.pdf**  
   PDF com imagens extraídas do Jira, mostrando o backlog inicial do produto, épicos, features, histórias e enablers.
 
-- **miro_boards.pdf**  
-  PDF com imagens das facilitações visuais do Miro, apresentando o MVP Canvas, a Lean Inception, sequenciamentos e demais artefatos visuais criados durante o planejamento do produto.
 
 - **video_link.txt**  
   Arquivo texto contendo o link para um vídeo no YouTube. Este vídeo apresenta um overview do produto, walkthrough do protótipo e/ou explicações sobre o backlog e o processo de trabalho.
@@ -41,10 +39,8 @@ Este repositório apresenta artefatos de planejamento e concepção do MVP, incl
 2. **Backlog (Jira):**  
    Abra o arquivo `backlog_screenshots.pdf` para visualizar a organização do backlog no Jira, incluindo épicos (MVP, Incrementos), funcionalidades essenciais e histórias de usuário. Este documento também apresenta as definições de pronto (DoR) e pronto (DoD) e o detalhamento das histórias prioritárias.
 
-3. **Miro Boards:**  
-   No `miro_boards.pdf` você encontrará imagens do Miro com a Lean Inception, MVP Canvas e sequenciamentos. Estes artefatos ajudam a entender o raciocínio por trás das priorizações, objetivos do produto e o fluxo de atividades durante a concepção do MVP.
 
-4. **Vídeo no YouTube:**  
+3. **Vídeo no YouTube:**  
    O `video_link.txt` contém um link direto para um vídeo de apresentação. Este vídeo pode mostrar uma explicação geral do produto, exemplos de uso do protótipo, e insights sobre o planejamento.
 
 ## Sobre o MVP
