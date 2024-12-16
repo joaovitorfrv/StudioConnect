@@ -8,6 +8,10 @@ Bem-vindo ao repositório do projeto **StudioConnect** – uma plataforma para c
 
 Este repositório apresenta artefatos de planejamento e concepção do MVP, incluindo wireframes, backlog, documentação visual e referências de vídeo.
 
+## Links
+- **Youtube - Apresentação das etapas do projeto:** 
+- **Miro - Lean Inception com MVP Canvas:** https://miro.com/app/board/uXjVLC3k1aY=/?share_link_id=243208308130
+- **Jira - Product Backlog, Sprints, User Stories, DoD & DoR, Épicos:** https://jvfrugi.atlassian.net/jira/software/projects/STUD/boards/2/backlog
 ## Estrutura do Repositório
 
 - **Wireframe/**  
